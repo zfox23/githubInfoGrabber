@@ -1,10 +1,16 @@
-# githubInfoGrabber
+# GitHub Info Grabber
 This application provides users with a simple way to download various pieces of information about a GitHub repository.
+
+This is useful to me because I like to keep track of my accomplishments at work, and one high-level way to do that is to look at the titles of the PRs that I've merged.
 
 Right now, this application will retrieve, format, and write to disk the following information from a specified repository:
 - Pull request data:
     - Titles
     - Merged time
+
+Here's an example of what the output file looks like:
+
+![Example Output File](./exampleOutput.png)
 
 # How do I use this?
 1. Clone this repository to your local disk, or download the latest version of the `main` branch code [here](https://github.com/zfox23/githubInfoGrabber/archive/main.zip).
