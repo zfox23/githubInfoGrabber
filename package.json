@@ -1,0 +1,22 @@
+{
+  "name": "githubinfograbber",
+  "version": "1.0.0",
+  "description": "This application provides users with a simple way to download various pieces of information about a GitHub repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfox23/githubInfoGrabber.git"
+  },
+  "author": "Zach Fox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zfox23/githubInfoGrabber/issues"
+  },
+  "homepage": "https://github.com/zfox23/githubInfoGrabber#readme",
+  "dependencies": {
+    "@octokit/core": "^3.1.2"
+  }
+}

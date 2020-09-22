@@ -1,0 +1,6 @@
+{
+    "GITHUB_ACCESS_TOKEN": "Create a personal access token at https://github.com/settings/tokens/new?scopes=repo, then paste it here.",
+    "owner": "The owner of the repository about which you want to retrieve data.",
+    "repo": "The name of the repository about which you want to retrieve data.",
+    "usernameFilter": "Optional; leave blank if not necessary. If not empty, filters results such that they pertain only to this user."
+}
